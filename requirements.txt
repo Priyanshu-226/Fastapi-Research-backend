@@ -1,8 +1,7 @@
 fastapi
 uvicorn
-langchain==0.1.14
+langchain
 openai
 python-multipart
 faiss-cpu
 PyPDF2
-tiktoken==0.3.3
