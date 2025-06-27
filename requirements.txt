@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-langchain
+langchain==0.1.14
 openai
 python-multipart
 faiss-cpu
 PyPDF2
-tiktoken==0.4.0  # prevents Rust compilation issues
+tiktoken==0.3.3
